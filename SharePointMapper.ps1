@@ -2,6 +2,7 @@
 #OneDriveMapper
 #Original from:       https://www.lieben.nu/liebensraum/onedrivemapper/
 #Requirements:      Keep Me Signed in (sign in acceleration) allowed (Tenant wide). Trusted sites already configured or user allowed to configure them. PowerShell v3 or higher
+#credits to Jos Lieben
 #Modified on 06/30/2023 
 param(
     [Switch]$asTask,
